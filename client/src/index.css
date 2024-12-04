@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'SF Pro Rounded';
+    src: url('../public/font-style/SF-Pro-Rounded-Regular.otf') format('opentype');
+  }
+  
+  * {
+    font-family: 'SF Pro Rounded', -apple-system, BlinkMacSystemFont, Segoe UI,
+      Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+      sans-serif;
+  }
+  
