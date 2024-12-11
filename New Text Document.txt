@@ -1,0 +1,5 @@
+admin: admin@admin.com
+pass: admin123
+
+user: john@gmail.com
+pass: johndoe123
