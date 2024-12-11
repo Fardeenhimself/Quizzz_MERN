@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer style={footerStyle}>
       <div style={bioStyle}>
-        <p>Northern University of Business and Technology, Khulna</p>
+        <p>All Rights Reserved</p>
       </div>
       <div style={socialIconsStyle}>
         <a
@@ -36,7 +36,7 @@ const Footer = () => {
         </a>
       </div>
       <div style={copyrightStyle}>
-        <p>&copy; Fardeen, ID:11200120506</p>
+        <p>&copy; Fardeen Been Zaman & Mazharul Islam </p>
       </div>
     </footer>
   );
